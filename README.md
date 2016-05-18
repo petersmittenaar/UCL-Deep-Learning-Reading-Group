@@ -11,4 +11,4 @@ We can share notebooks, scripts and so on here.
 * [MNIST database](http://yann.lecun.com/exdb/mnist/) - the MNIST database of handwritten digits
 
 ## food for thought
-* [Can the brain do backpropagation[(https://www.youtube.com/watch?v=VIRCybGgHts)
+* [Can the brain do backpropagation](https://www.youtube.com/watch?v=VIRCybGgHts)
