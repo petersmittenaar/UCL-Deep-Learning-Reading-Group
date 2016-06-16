@@ -1,7 +1,10 @@
 function NewtonsMethodDemo;
-ca
 
-% archy 7/6/16. Trying to figure out how Newton's method works
+% archy 7/6/16. Trying to figure out precisely how Newton's method works,
+% specifically: can you use a second derivative approximation for zero
+% finding, or do you end up doing minimisation?
+
+clear all
 
 % 1. Linear approximation of quadratic function
 
@@ -11,6 +14,7 @@ y = 2*x.^2+4*x + 30;
 figure;plot(y);
 
 figure(1);
+
 % Apply Newton's method iteratively
 
 nStep = 20;
@@ -36,7 +40,7 @@ suptitle('Quadratic, with linear approximation (tangent)');
     
 % Okay, that works pretty well. 
 
-% We can just use f'' instead of f' because everything will disappear (we
+% We can't just use f'' instead of f' because everything will disappear (we
 % don't get a line). But we could use f'' in our tangent formula. What
 % happens then?
 
