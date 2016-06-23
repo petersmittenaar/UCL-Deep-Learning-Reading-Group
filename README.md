@@ -10,6 +10,7 @@ We can share notebooks, scripts and so on here.
 * [Neural networks demystified](http://lumiverse.io/series/neural-networks-demystified) - videos explaining basics of neural nets and maths behind it
 * [Oxford lectures on Deep Learning](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) - 16 lectures by Nando De Freitas on Deep Learning
 * [MNIST database](http://yann.lecun.com/exdb/mnist/) - the MNIST database of handwritten digits
+* [Visualising Neural Networks] (http://neurovis.mitchcrowe.com/) - a cool tool for playing with simple networks in a graphical manner
 
 ## food for thought
 * [Geoffrey Hinton, April 27 2016, Stanford Seminar: Can the brain do backpropagation?](https://www.youtube.com/watch?v=VIRCybGgHts)
